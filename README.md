@@ -25,8 +25,3 @@ Install required Python packages:
 
 ```bash
 pip install -r requirements.txt
-
-
-Designed for Gmail accounts with OAuth credentials.
-
-Works best in a Python virtual environment.
