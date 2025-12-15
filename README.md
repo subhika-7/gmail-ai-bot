@@ -55,15 +55,23 @@ gmail_bot/
 ├── requirements.txt # Python dependencies
 ├── venv/ # Virtual environment folder
 └── README.md # Project documentation
+---
+
+## 🧪 Common Issues
+
+- **ModuleNotFoundError:** Activate the virtual environment and ensure all dependencies are installed.
+- **Access Blocked (403):** Add your Gmail account as a test user in Google Cloud Console.
+- **Timeout / Network Errors:** Ensure a stable internet connection.
+- **Token Errors:** Delete `token.json` and re-run the bot to regenerate it if authentication fails.
 
 ---
 
-##🌱 Future Enhancements
+## 🌱 Future Enhancements
 
-Tone customization for replies (formal, casual, urgent).
+- Customizable reply tone (formal, casual, urgent).
+- Handle attachments in emails automatically.
+- Multi-account support.
+- Web dashboard for monitoring bot activity and logs.
 
-Attachment handling in emails.
+---
 
-Multi-account support.
-
-Dashboard for monitoring bot activity.
