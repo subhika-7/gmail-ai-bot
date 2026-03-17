@@ -172,7 +172,7 @@ python gmail_ai_bot_rag.py
 
 ## 👨‍💻 Author
 
-**Thanvant R**
+**Subhika S**
 
 ---
 
